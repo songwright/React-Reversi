@@ -137,7 +137,7 @@ const Signup = () => {
           </form>
           <form id="avatar">
             <Grid container justify="center" alignItems="center">
-              <input type="radio" name="avatar" value={0} checked="checked"></input>
+              <input type="radio" name="avatar" value={0} defaultChecked="checked"></input>
               <Avatar className={classes.avatar}>
                 <img className="avatar" src={profile_0} alt="avatar"></img
                 ></Avatar>

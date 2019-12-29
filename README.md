@@ -2,7 +2,7 @@
 
 This is an app that uses React as a framework for creating a game called Reversi, a popular board game also known as Othello.
 
-![React Reversi](https://songwright.github.io/materialize-portfolio/images/reversi.png)
+![React Reversi](https://user-images.githubusercontent.com/29614473/71561643-f1fce880-2a2d-11ea-82f0-8286aff4816b.png)
 
 ## To open the app, [click here.](http://reversi-project.herokuapp.com/aigame)
 

@@ -23,6 +23,6 @@ You can only place your pieces on the board, one at a time, by capturing one of 
 * React
 * Node.js
 * Express.js
-* Sequezize
+* Sequelize
 * MySQL
 * Passport

@@ -19,6 +19,7 @@ You can only place your pieces on the board, one at a time, by capturing one of 
 * CSS
 * CSS Grid
 * Bootstrap
+* JavaScript
 * Axios
 * React
 * Node.js

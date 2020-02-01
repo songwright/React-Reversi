@@ -10,7 +10,7 @@
     "client": "cd client && npm run start",
     "seed": "sequelize db:create",
     "install": "cd client && npm install",
-    "build": "cd client && npm run heroku-prebuild",
+    "build": "cd client && npm run build",
     "heroku-postbuild": "npm run build"
   },
   "keywords": [],
